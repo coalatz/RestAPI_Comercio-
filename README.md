@@ -22,7 +22,7 @@ Este repositório contém uma API de Comércio desenvolvida em Java com Spring B
 
 ### Pré-requisitos
 
-- Java 11 ou superior
+- Java 17 ou superior
 - Maven
 - MySQL
 
